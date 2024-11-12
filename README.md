@@ -1,8 +1,11 @@
-# React + Vite
+A responsive landing page built with ReactJS and styled with Tailwind CSS, using various libraries to enhance functionality and design.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+>> Libraries & Frameworks Used
+  1. React: Core library for building the landing page.
+  2. React Slide: For interactive carousel/slider effects.
+  3. React Player: For video embedding and playback.
+  4. React Hook Form: For handling forms and validation.
+  5. React Icons: For adding icons to improve the design.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+And this project I have deployed on firebase
+Live Link: https://reactjs-landing-page.web.app/
